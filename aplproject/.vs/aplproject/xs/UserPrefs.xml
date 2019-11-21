@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D92C16B2-A2A5-498F-B328-6CF7DEBA0314}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="aplproject/Program.cs" Line="1" Column="1" />
+      <File FileName="aplproject/obj/aplproject.csproj.nuget.cache" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="aplproject" expanded="True">
+            <Node name="aplproject" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.aplproject FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
